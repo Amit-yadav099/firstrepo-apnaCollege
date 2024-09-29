@@ -1,3 +1,4 @@
 # firstrepo-apnaCollege
 This is my first repositary during learning the github from apna college
-author-Amit yadav
+<br>
+Author-Amit yadav
